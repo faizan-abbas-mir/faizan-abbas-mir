@@ -52,8 +52,8 @@ My work spans:
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,github,postgres,redis,mongodb,react"
-    alt="Tech stack icons for Python, FastAPI, Docker, Kubernetes, Git, GitHub, Postgres, Redis, MongoDB, and React"
+    src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,github,postgres,redis,mongodb,react,FastAPI"
+    alt="Tech stack icons for Python, FastAPI, Docker, Kubernetes, Git, GitHub, Postgres, Redis, MongoDB,React and FastAPI"
   />
 </p>
 
@@ -67,6 +67,10 @@ My work spans:
 
 <p align="center">
   <code>Supabase</code> <code>JWT Auth</code> <code>WebSockets</code> <code>Stripe</code>
+</p>
+
+<p align="center">
+  <code>FastAPI</code> <code>JWT Auth</code> <code>WebSockets</code> <code>Stripe</code>
 </p>
 
 ## Featured Projects
