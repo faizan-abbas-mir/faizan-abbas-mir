@@ -52,7 +52,7 @@ My work spans:
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,github,postgres,redis,mongodb,react,FastAPI,docker,kubernetes"
+    src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,github,postgres,redis,mongodb,react,fastapi,docker,kubernetes"
     alt="Tech stack icons for Python, FastAPI, Docker, Kubernetes, Git, GitHub, Postgres, Redis, MongoDB,React and FastAPI"
   />
 </p>
