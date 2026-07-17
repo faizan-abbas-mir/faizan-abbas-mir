@@ -52,7 +52,7 @@ My work spans:
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,github,postgres,redis,mongodb,react,FastAPI"
+    src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,github,postgres,redis,mongodb,react,FastAPI,docker,kubernetes"
     alt="Tech stack icons for Python, FastAPI, Docker, Kubernetes, Git, GitHub, Postgres, Redis, MongoDB,React and FastAPI"
   />
 </p>
@@ -70,7 +70,7 @@ My work spans:
 </p>
 
 <p align="center">
-  <code>FastAPI</code> <code>JWT Auth</code> <code>WebSockets</code> <code>Stripe</code>
+  <code>FastAPI</code> <code>Machine Learning</code> <code>Deep Learning</code> <code>Docker</code><code>Kubernetes</code>
 </p>
 
 ## Featured Projects
