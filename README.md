@@ -112,4 +112,4 @@ What I value in every project:
 
 ## Connect
 
-Open to remote, hybrid, and onsite roles. Always up for a conversation about RAG systems, agentic AI, or backend architecture.
+Open to remote, hybrid, and onsite roles. Always up for a conversation about System Design,RAG systems, agentic AI, or backend architecture and Engineering.
