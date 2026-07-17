@@ -1,52 +1,111 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+# Faizan Abbas Mir
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Building+RAG+Pipelines...;Architecting+AI+Agents...;Shipping+FastAPI+Backends..." alt="Typing SVG" />
+  </a>
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<p align="center">
+  <strong>AI/ML Engineer | RAG &amp; Agentic AI Systems</strong><br />
+  Building production-grade AI backends — RAG pipelines, agentic workflows, and LLM-powered APIs.
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/faizan-abbas-mir">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/faizanabbasmir">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:faixanmir21.fm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/faizan-abbas-mir?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-2D333B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+## About Me
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+I'm an AI/ML Engineer building document-grounded RAG systems, agentic workflows, and production backends. Currently at Chinar Quantum AI, where I architect AI assistants used company-wide.
 
-###
+My work spans:
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+- RAG pipelines (vector search, reranking, streaming)
+- Agentic AI development and rapid prototyping
+- FastAPI backend architecture and API design
+- LLM integration (Claude, Gemini, OpenAI)
+- Vector databases and semantic search
+- Auth, rate limiting, and production observability
 
-###
+## What I Focus On
+
+- Building document-grounded RAG systems with reranking and citation
+- Architecting agentic AI products end-to-end
+- Designing secure, scalable FastAPI backends
+- Improving retrieval precision and latency in production
+
+## Tech Stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,github,postgres,redis,mongodb,react"
+    alt="Tech stack icons for Python, FastAPI, Docker, Kubernetes, Git, GitHub, Postgres, Redis, MongoDB, and React"
+  />
+</p>
+
+<p align="center">
+  <code>RAG</code> <code>LangChain</code> <code>Agentic AI</code> <code>Claude API</code> <code>Gemini API</code> <code>OpenAI API</code> <code>Hugging Face</code>
+</p>
+
+<p align="center">
+  <code>Pinecone</code> <code>ChromaDB</code> <code>FAISS</code> <code>Semantic Search</code> <code>Embeddings</code>
+</p>
+
+<p align="center">
+  <code>Supabase</code> <code>JWT Auth</code> <code>WebSockets</code> <code>Stripe</code>
+</p>
+
+## Featured Projects
+
+### [ERP-Bot](https://github.com/faizan-abbas-mir)
+
+Unified FastAPI backend combining a document-grounded RAG QnA system and a ticket-routing engine into one AI assistant, adopted company-wide at Chinar Quantum AI. Role-based access control, Pinecone vector search with cross-encoder reranking, and WebSocket streaming with Redis-backed memory.
+
+### [Finance RAG](https://github.com/faizan-abbas-mir/finance-rag)
+
+Production-ready RAG system for financial document analysis — 89.3% retrieval precision@3, 94.1% answer accuracy, sub-500ms end-to-end query latency. 5-stage retrieval pipeline with cross-encoder reranking and cited response generation.
+
+### [ResumeForge](https://github.com/faizan-abbas-mir/resumeforge)
+
+Backend for a SaaS platform that tailors resumes to job descriptions and runs scored AI mock interviews via Gemini. Three-tier freemium billing via Stripe, composable rate-limiting middleware, and Row-Level Security in Supabase Postgres.
+
+### [PeakConnect](https://github.com/faizan-abbas-mir/peakconnect)
+
+Full-stack gear/trip-matching platform shipped by a 3-person team in a 1–4 week sprint — FastAPI, SQLAlchemy, React, Supabase/RLS, Redis, Docker, Claude API. Deployed on Render and Vercel.
+
+## Working Style
+
+What I value in every project:
+
+- Clean, well-architected backend code
+- Measurable retrieval and latency performance
+- Defense-in-depth security (RBAC, RLS, rate limiting)
+- Shipping fast without cutting corners
+
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizan-abbas-mir/faizan-abbas-mir/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizan-abbas-mir/faizan-abbas-mir/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faizan-abbas-mir/faizan-abbas-mir/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+## Connect
+
+Open to remote, hybrid, and onsite roles. Always up for a conversation about RAG systems, agentic AI, or backend architecture.
