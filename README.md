@@ -110,6 +110,10 @@ What I value in every project:
   </picture>
 </p>
 
+## Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## Connect
 
 Open to remote, hybrid, and onsite roles. Always up for a conversation about System Design,RAG systems, agentic AI, or backend architecture and Engineering.
